@@ -1,3 +1,96 @@
 # Have  To Complete These Topic
 1-
 2-
+
+
+###################################
+##############################################
+
+owasp top 10
+The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+
+Social Eng
+malicious activities accomplished through human interactions.
+It uses psychological manipulation to trick users into making security mistakes or giving away sensitive information.
+
+    clone Phishing
+    email phishing
+    Whaling. ...
+    Baiting
+    SMS Phishing. ...
+    Scareware.
+    vishing
+
+How does a website work step by step?
+Let's have a look at all four steps.
+
+    Step 1 - URL Gets Resolved.
+    Step 2 - Request Is Sent.
+    Step 3 - Response Is Parsed.
+    Step 4 - Page Is Displayed.
+    Server-side.
+    Browser-side.
+
+What are the 3 types of websites?
+
+    Static website design- ...
+    CMS or dynamic website- ...
+    eCommerce website-
+
+How are websites hacked?
+Hackers usually use brute-force attacks such as guessing usernames and passwords, trying generic passwords, using password generator tools, social engineering/ phishing emails, and links, etc.
+
+
+10 tips for secure a website
+
+	ssl configuration
+	encrypt data
+	stop sql injection
+	remove embeded sql
+	secure credential
+	enforce complex passwod
+	secure api
+	vulnerability patching 
+	ddos protection
+	pci compliance
+	check version 
+
+
+What is Metasploit used for?
+
+It allows testers to scan systems for vulnerabilities,
+ conduct network reconnaissance, 
+ Exploit modules—allow testers to target a specific, known vulnerability. 
+ Metasploit has a large number of exploit modules, 
+ including buffer overflow and SQL injection exploits.
+
+
+What is malware with example?
+Malware, or malicious software, is any program or file that is intentionally harmful to a computer, network or server. Types of malware include computer viruses, worms, Trojan horses, ransomware and spyware keylogger
+
+What is virus in computer explain?
+A computer virus is malicious code that replicates by copying itself to another program
+
+
+Ransomware is a type of malware that prevents or limits users from accessing their system, either by locking the system's screen or by locking the users' files until a ransom is paid.
+
+RAT-
+Remote access trojans (RATs) are malware designed to allow an attacker to remotely control an infected computer. Once the RAT is running on a compromised system, the attacker can send commands to it and receive data back in response.
+
+
+VPN stands for "virtual private network" — a service that helps you stay private online. A VPN establishes a secure, encrypted connection between your computer and the internet, providing a private tunnel for your data and communications while you use public networks
+
+Proxy
+A proxy server is a system or router that provides a gateway between users and the internet.
+
+what is 3 way handshake
+A three-way handshake is also known as a TCP handshake or SYN-SYN-ACK, and requires both the client and server to exchange SYN (synchronization) and ACK (acknowledgment) packets before actual data communication begins
+
+WORM
+A computer worm is a subset of the Trojan horse malware that can propagate or self-replicate from one computer to another without human activation after breaching a system.
+
+
+Secure Sockets Layer (SSL) is a standard security technology for establishing an encrypted link between a server and a client
+
+TCP-UDP
+TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol. A key difference between TCP and UDP is speed, as TCP is comparatively slower than UDP. Overall, UDP is a much faster, simpler, and efficient protocol, however, retransmission of lost data packets is only possible with TCP
