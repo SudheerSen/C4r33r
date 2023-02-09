@@ -1,5 +1,27 @@
-<h1>Have  To Complete These Topic
+### Web Applicaton Security  #####
 
+Questions:-
+	1.Owasp Top 10
+	2.Social Engineering
+	3.How does work website
+	4.What are the 3 types of website
+	5.How are website work
+	6.10 tips for secure website
+	7.What is Metasploit
+	8.What is Malware
+	9.VPN
+	10.Proxy
+	11.What is 3 way Handshake
+	12.What is cryptography
+	13.What is different b/w Encryption, Decryption, Hashing
+	14.CIA
+	15.DOS/DDOS
+	
+	
+	
+Cyber Security-> Secure to every activity on internet.
+		>Network, Mobile, Device Information, Technology,
+		is called cyber security
 1. Owasp Top 10
     The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 	-Broken Access Control
@@ -14,7 +36,7 @@
 
 2.Social Engineering
    Malicious activities acomplished trhough human interactions.
-   Phychological manupulation to get sestive information
+   Phychological manupulation to get senstive information
  Three Types of SE
  -Human Based
  	-Shouldier Surfing
