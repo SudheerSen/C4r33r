@@ -1,29 +1,35 @@
-<h1>Have  To Complete These Topic</h1>
-1-
-2-
+<h1>Have  To Complete These Topic
 
+1. Owasp Top 10
+    The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+	-Broken Access Control
+	-Cryptographic Failures
+	-Injection
+	-Insecure Design
+	-Security Misconfiguration
+	-Vulnerable and outdated Components
+	-identification and Authentication Failures
+	-Security Logging and Monitoring 
+	-SSRF
 
-###################################
-##############################################
-
-owasp top 10
-The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
-
-Social Eng
-malicious activities accomplished through human interactions.
-It uses psychological manipulation to trick users into making security mistakes or giving away sensitive information.
-
-    clone Phishing
-    email phishing
-    Whaling. ...
-    Baiting
-    SMS Phishing. ...
-    Scareware.
-    vishing
-
-How does a website work step by step?
-Let's have a look at all four steps.
-
+2.Social Engineering
+   Malicious activities acomplished trhough human interactions.
+   Phychological manupulation to get sestive information
+ Three Types of SE
+ -Human Based
+ 	-Shouldier Surfing
+	-Vishing
+	-Evasedropping 
+-Computer Based
+	-Email phishing 
+	-Pop up
+-Mobile Based
+	-Message Phishing 
+	-Spam messaging
+	-SMS phishing 
+	
+	
+3. How does a website work step by step?
     Step 1 - URL Gets Resolved.
     Step 2 - Request Is Sent.
     Step 3 - Response Is Parsed.
@@ -31,66 +37,71 @@ Let's have a look at all four steps.
     Server-side.
     Browser-side.
 
-What are the 3 types of websites?
+4. What are the 3 types of websites?
+   -Static website design- ...
+   -CMS or dynamic website- ...
+   -eCommerce website-
 
-    Static website design- ...
-    CMS or dynamic website- ...
-    eCommerce website-
+5. How are websites hacked?
+	social engineering/ phishing emails, and links, etc.
+	Hackers usually use brute-force attacks
+	Guessing usernames and passwords, trying generic passwords, 
+	using password generator tools, 
 
-How are websites hacked?
-Hackers usually use brute-force attacks such as guessing usernames and passwords, trying generic passwords, using password generator tools, social engineering/ phishing emails, and links, etc.
-
-
-10 tips for secure a website
-
-	ssl configuration
-	encrypt data
-	stop sql injection
-	remove embeded sql
-	secure credential
-	enforce complex passwod
-	secure api
-	vulnerability patching 
-	ddos protection
-	pci compliance
-	check version 
-
-
-What is Metasploit used for?
-
-It allows testers to scan systems for vulnerabilities,
- conduct network reconnaissance, 
- Exploit modules—allow testers to target a specific, known vulnerability. 
- Metasploit has a large number of exploit modules, 
- including buffer overflow and SQL injection exploits.
+6. 10 tips for secure a website
+	SSL Configuration
+	Encrypt data
+	Stop sql Injection
+	Remove embeded sql
+	Secure credential
+	Enforce complex passwod
+	Secure API
+	Vulnerability patching 
+	DDOS Protection
+	PCI Compliance
+	Check Version 
 
 
-What is malware with example?
-Malware, or malicious software, is any program or file that is intentionally harmful to a computer, network or server. Types of malware include computer viruses, worms, Trojan horses, ransomware and spyware keylogger
-
-What is virus in computer explain?
-A computer virus is malicious code that replicates by copying itself to another program
-
-
-Ransomware is a type of malware that prevents or limits users from accessing their system, either by locking the system's screen or by locking the users' files until a ransom is paid.
-
-RAT-
-Remote access trojans (RATs) are malware designed to allow an attacker to remotely control an infected computer. Once the RAT is running on a compromised system, the attacker can send commands to it and receive data back in response.
+7. What is Metasploit used for?
+	It allows testers to scan systems for vulnerabilities,
+	 conduct network reconnaissance, 
+	 Exploit modules—allow testers to target a specific, known vulnerability. 
+	 Metasploit has a large number of exploit modules, 
+	 including buffer overflow and SQL injection exploits.
 
 
-VPN stands for "virtual private network" — a service that helps you stay private online. A VPN establishes a secure, encrypted connection between your computer and the internet, providing a private tunnel for your data and communications while you use public networks
+8. What is malware with example?
+	Malware, or malicious software, is any program or file that is intentionally harmful to a computer, network or server. 
+	Types of Malware:-
+		-Viruses, 
+		-Worms, 
+		-Trojan horses, 
+		-Ransomware 
+		-Spyware keylogger
+		-RAT
 
-Proxy
-A proxy server is a system or router that provides a gateway between users and the internet.
+	Virus-: A computer virus is malicious code that replicates by copying itself to another program
+	
+	WORM-: A computer worm is a subset of the Trojan horse malware that can propagate or self-replicate from one computer to another without human activation after breaching a system.
+	
+	RAT-: Remote access trojans (RATs) are malware designed to allow an attacker to remotely control an infected computer. Once the RAT is running on a compromised system, the attacker can send commands to it and receive data back in response.
+	
+	Ransomware:- Its type of malware that prevents or limits users from accessing their system, either by locking the system's screen or by locking the users' files until a ransom is paid.
+	
 
-what is 3 way handshake
-A three-way handshake is also known as a TCP handshake or SYN-SYN-ACK, and requires both the client and server to exchange SYN (synchronization) and ACK (acknowledgment) packets before actual data communication begins
+9. VPN stands for "virtual private network" — a service that helps you stay private online. A VPN establishes a secure, encrypted connection between your computer and the internet, providing a private tunnel for your data and communications while you use public networks
 
-WORM
-A computer worm is a subset of the Trojan horse malware that can propagate or self-replicate from one computer to another without human activation after breaching a system.
+10.Proxy-: A proxy server is a system or router that provides a gateway between users and the internet.
+
+11. what is 3 way handshake
+	A three-way handshake is also known as a TCP handshake or SYN-SYN-ACK, and requires both the client and server to exchange SYN (synchronization) and ACK (acknowledgment) packets before actual data communication begins
 
 
-Secure Sockets Layer (SSL) is a standard security technology for establishing an encrypted link between a server and a client
+12. Secure Sockets Layer (SSL) is a standard security technology for establishing an encrypted link between a server and a client
 
-TCP-UDP
-TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol. A key difference between TCP and UDP is speed, as TCP is comparatively slower than UDP. Overall, UDP is a much faster, simpler, and efficient protocol, however, retransmission of lost data packets is only possible with TCP
+13. TCP-UDP
+	TCP:- Connection-oriented protocol,
+		-TCP Slower
+		-Retransmission of lost data packets is only possible with TCP
+	UDP:- Connectionless protocol. 
+		-UDP is much faster
