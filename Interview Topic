@@ -127,3 +127,24 @@ Cyber Security-> Secure to every activity on internet.
 		-Retransmission of lost data packets is only possible with TCP
 	UDP:- Connectionless protocol. 
 		-UDP is much faster
+		
+		
+14. Client-Side Attack:-
+	Broken Client-side Access Control.
+	DOM-based XSS.
+	Sensitive Data Leakage.
+	Vulnerable and Outdated Components. 
+	Lack of Third-party Origin Control.
+	JavaScript Drift.
+	Sensitive Data Stored Client-Side.
+	Client-side Security Logging and Monitoring Failures.		
+
+15. Server-Side Attacks:-
+	DOS attack
+	Website Defacement
+	Directory Traversal
+	Misconfiguration attacks
+	Phishing Attack
+	Information Gathering
+	Vulnerability Scanning
+	Password Attacks
