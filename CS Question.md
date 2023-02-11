@@ -1,4 +1,4 @@
-### Web Applicaton Security  #####
+# Web Applicaton Security
 
 Questions:-
 	1.Owasp Top 10
@@ -8,7 +8,15 @@ Questions:-
 	5.How are website work
 	6.10 tips for secure website
 	7.What is Metasploit
-	8.What is Malware
+	8.What is Malware?
+		1.Virus
+		2.Worms
+		3.Trojan
+		4.Ransomeware
+		5.Adware
+		6.Spyware
+		7.Rootkit
+		8.Banking Trojan
 	9.VPN
 	10.Proxy
 	11.What is 3 way Handshake
@@ -20,8 +28,8 @@ Questions:-
 	
 	
 Cyber Security-> Secure to every activity on internet.
-		>Network, Mobile, Device Information, Technology,
-		is called cyber security
+		>System,Network, Mobile, Device Information, Technology,by the Cyber Attack
+		is called cyber security.
 1. Owasp Top 10
     The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 	-Broken Access Control
@@ -93,22 +101,28 @@ Cyber Security-> Secure to every activity on internet.
 
 
 8. What is malware with example?
-	Malware, or malicious software, is any program or file that is intentionally harmful to a computer, network or server. 
-	Types of Malware:-
-		-Viruses, 
-		-Worms, 
-		-Trojan horses, 
-		-Ransomware 
-		-Spyware keylogger
-		-RAT
+Ans-: Malware is a type of software that is designed to cause harm to a computer system or network. There are several types of malware, including:
+	1.Virus: A program that infects other software and replicates itself.
 
-	Virus-: A computer virus is malicious code that replicates by copying itself to another program
+	2.Worm: A type of virus that spreads itself over a network without the need for a host file.
+
+	3.Trojan: A type of malware that disguises itself as a legitimate program and is used to gain unauthorized access to a system.
+
+	4.Ransomware: Malware that encrypts the victim's files and demands a ransom payment in exchange for the decryption key.
+
+	5.Adware: Software that displays unwanted ads and pop-ups.
+
+	6.Spyware: Software that tracks a user's behavior and activity without their knowledge.
+
+	7.Rootkit: A type of malware that hides itself and its malicious activity from detection.
+
+	8.Banking Trojan: A type of malware that is specifically designed to steal sensitive financial information, such as login credentials and credit card numbers.
+
+	9.RAT: Remote access trojans (RATs) are malware designed to allow an attacker to remotely control an infected computer. Once the RAT is running on a compromised system, the attacker can send commands to it and receive data back in response.
 	
-	WORM-: A computer worm is a subset of the Trojan horse malware that can propagate or self-replicate from one computer to another without human activation after breaching a system.
+	It is important to regularly update your computer's security software and to be cautious when downloading and installing new software to reduce the risk of infection by malware.
+
 	
-	RAT-: Remote access trojans (RATs) are malware designed to allow an attacker to remotely control an infected computer. Once the RAT is running on a compromised system, the attacker can send commands to it and receive data back in response.
-	
-	Ransomware:- Its type of malware that prevents or limits users from accessing their system, either by locking the system's screen or by locking the users' files until a ransom is paid.
 	
 
 9. VPN stands for "virtual private network" — a service that helps you stay private online. A VPN establishes a secure, encrypted connection between your computer and the internet, providing a private tunnel for your data and communications while you use public networks
