@@ -48,34 +48,33 @@
 ## 2. What is Social Engineering:
 #### Social engineering is a type of attack that relies on human interaction and involves manipulating individuals into divulging confidential information or performing actions that can compromise a system or network.
 
-##### Types of Social Engineering
-   	1.Phishing: A type of attack that uses fake emails, websites, or text messages to trick individuals into revealing sensitive information, such as login credentials or credit card numbers.
+### Types of Social Engineering-:
+- Phishing: A type of attack that uses fake emails, websites, or text messages to trick individuals into revealing sensitive information, such as login credentials or credit card numbers.
      
-   	2.Baiting: A type of attack that involves leaving a physical device, such as a USB drive, in a public place in the hope that someone will pick it up and use it, infecting their system with malware.
+- Baiting: A type of attack that involves leaving a physical device, such as a USB drive, in a public place in the hope that someone will pick it up and use it, infecting their system with malware.
 
-   	3.Vishing: A type of attack that uses voice calls, such as over the phone or through a voice-over-IP service, to trick individuals into divulging sensitive information.
+- Vishing: A type of attack that uses voice calls, such as over the phone or through a voice-over-IP service, to trick individuals into divulging sensitive information.
 
-   	4.Impersonation: A type of attack that involves posing as a trusted entity, such as a customer service representative or a technical support agent, in order to gain access to sensitive information.
+- Impersonation: A type of attack that involves posing as a trusted entity, such as a customer service representative or a technical support agent, in order to gain access to sensitive information.
 
-   	5.Pretexting: A type of attack that involves creating a fake scenario or story to trick individuals into divulging sensitive information.
+- Pretexting: A type of attack that involves creating a fake scenario or story to trick individuals into divulging sensitive information.
     
 
-##### How To Indentify  Social Engineering Link:
+### How To Indentify  Social Engineering Link-:
       
-      Typos or grammatical errors: The attacker may not take the time to proofread their emails, text messages, or websites, and may include typos or grammatical errors.
+- Typos or grammatical errors: The attacker may not take the time to proofread their emails, text messages, or websites, and may include typos or grammatical errors.
     
-      Suspicious URLs: The attacker may use a fake website or link that looks similar to a legitimate website, but uses a slightly different URL.
+- Suspicious URLs: The attacker may use a fake website or link that looks similar to a legitimate website, but uses a slightly different URL.
     
-       Unexpected attachments: The attacker may include an attachment in an email that, when opened, infects your computer with malware.
+- Unexpected attachments: The attacker may include an attachment in an email that, when opened, infects your computer with malware.
     
     
     
-##### Prevention:
-          
-          1.Verify the identity of the sender
-          2.Use strong passwords and enable two-factor authentication  
-          3.Keep software and security systems up-to-date
-          4.Educate others
+### Prevention-:
+- Verify the identity of the sender
+- Use strong passwords and enable two-factor authentication  
+- Keep software and security systems up-to-date
+- Educate others
      
 	
 ## 3. How does a website work step by step?
